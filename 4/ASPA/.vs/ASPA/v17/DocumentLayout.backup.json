@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2FB156-8D95-4108-929F-6A8235D9132B}|ASPA004_2\\ASPA004_2.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\4\\aspa\\aspa004_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2FB156-8D95-4108-929F-6A8235D9132B}|ASPA004_2\\ASPA004_2.csproj|solutionrelative:aspa004_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3C2835-4575-4459-A300-183F51723474}|DAL004\\DAL004.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\4\\aspa\\dal004\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3C2835-4575-4459-A300-183F51723474}|DAL004\\DAL004.csproj|solutionrelative:dal004\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D50344-B649-4564-B67F-884267DDF3F1}|ASPA004_1\\ASPA004_1.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\4\\aspa\\aspa004_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D50344-B649-4564-B67F-884267DDF3F1}|ASPA004_1\\ASPA004_1.csproj|solutionrelative:aspa004_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F2C1C-4BFA-4DDE-A081-759111BBBC3B}|Test_DAL004\\Test_DAL004.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\4\\aspa\\test_dal004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F2C1C-4BFA-4DDE-A081-759111BBBC3B}|Test_DAL004\\Test_DAL004.csproj|solutionrelative:test_dal004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4032E174-69BA-492D-A07D-9D2A01857D79}|ASPA004_3\\ASPA004_3.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\4\\aspa\\aspa004_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4032E174-69BA-492D-A07D-9D2A01857D79}|ASPA004_3\\ASPA004_3.csproj|solutionrelative:aspa004_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\ASPA004_3\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004_3\\Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\ASPA004_3\\Program.cs",
+              "RelativeToolTip": "ASPA004_3\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwD0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:24:52.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\ASPA004_2\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004_2\\Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\ASPA004_2\\Program.cs",
+              "RelativeToolTip": "ASPA004_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:22:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\ASPA004_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004_1\\Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\ASPA004_1\\Program.cs",
+              "RelativeToolTip": "ASPA004_1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:57:49.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\Test_DAL004\\Program.cs",
+              "RelativeDocumentMoniker": "Test_DAL004\\Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\Test_DAL004\\Program.cs",
+              "RelativeToolTip": "Test_DAL004\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwFsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:55:27.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\DAL004\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL004\\Class1.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\4\\ASPA\\DAL004\\Class1.cs",
+              "RelativeToolTip": "DAL004\\Class1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:38:49.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
