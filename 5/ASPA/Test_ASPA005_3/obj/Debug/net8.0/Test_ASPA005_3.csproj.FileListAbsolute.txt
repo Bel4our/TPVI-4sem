@@ -1,0 +1,15 @@
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.exe
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.deps.json
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.runtimeconfig.json
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.dll
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.pdb
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.AssemblyInfoInputs.cache
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.AssemblyInfo.cs
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.csproj.CoreCompileInputs.cache
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.sourcelink.json
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.dll
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\refint\Test_ASPA005_3.dll
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.pdb
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.genruntimeconfig.cache
+C:\лабы\Смелов\ТПВИ\TPVI-4sem\5\ASPA\Test_ASPA005_3\obj\Debug\net8.0\ref\Test_ASPA005_3.dll
