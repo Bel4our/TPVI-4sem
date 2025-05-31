@@ -1,0 +1,6 @@
+{
+    "Celebrities": {
+        "PhotosFolder": "C:\\лабы\\Смелов\\ТПВИ\\TPVI-4sem\\6\\ASPA\\ASPA006_1\\Photos",
+        "ConnectionString": "Data Source=DESKTOP-P1GMMIV; Initial Catalog=LESO1; Integrated Security=True; TrustServerCertificate=True;"
+    }
+}

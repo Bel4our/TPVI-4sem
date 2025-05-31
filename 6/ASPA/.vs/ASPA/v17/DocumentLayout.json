@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0AA844-B994-46AF-99A1-35076FF3EF3B}|ASPA006_1\\ASPA006_1.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\aspa006_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0AA844-B994-46AF-99A1-35076FF3EF3B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B0AD88-B02C-442C-902E-4CAE84358284}|DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\dal_celebrity_mssql_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B0AD88-B02C-442C-902E-4CAE84358284}|DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj|solutionrelative:dal_celebrity_mssql_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0AA844-B994-46AF-99A1-35076FF3EF3B}|ASPA006_1\\ASPA006_1.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\aspa006_1\\wwwroot\\js\\celebrities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1C0AA844-B994-46AF-99A1-35076FF3EF3B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\wwwroot\\js\\celebrities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0AA844-B994-46AF-99A1-35076FF3EF3B}|ASPA006_1\\ASPA006_1.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\aspa006_1\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1C0AA844-B994-46AF-99A1-35076FF3EF3B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6B5BE1-4FC0-45B3-ACEF-1BEF3056E205}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\dal_celebrity_mssql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6B5BE1-4FC0-45B3-ACEF-1BEF3056E205}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6B5BE1-4FC0-45B3-ACEF-1BEF3056E205}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\dal_celebrity_mssql\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6B5BE1-4FC0-45B3-ACEF-1BEF3056E205}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6B5BE1-4FC0-45B3-ACEF-1BEF3056E205}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\dal_celebrity_mssql\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6B5BE1-4FC0-45B3-ACEF-1BEF3056E205}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6B5BE1-4FC0-45B3-ACEF-1BEF3056E205}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\dal_celebrity_mssql\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6B5BE1-4FC0-45B3-ACEF-1BEF3056E205}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E1D44-624B-46D6-8CA1-7CD46B11EC19}|DAL_Celebrity\\DAL_Celebrity.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0441\u043C\u0435\u043B\u043E\u0432\\\u0442\u043F\u0432\u0438\\tpvi-4sem\\6\\aspa\\dal_celebrity\\dal_celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E1D44-624B-46D6-8CA1-7CD46B11EC19}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\dal_celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 317,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\ASPA006_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA006_1\\Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\ASPA006_1\\Program.cs",
+              "RelativeToolTip": "ASPA006_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:15:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:15:13.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Celebrities.js",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\ASPA006_1\\wwwroot\\js\\Celebrities.js",
+              "RelativeDocumentMoniker": "ASPA006_1\\wwwroot\\js\\Celebrities.js",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\ASPA006_1\\wwwroot\\js\\Celebrities.js",
+              "RelativeToolTip": "ASPA006_1\\wwwroot\\js\\Celebrities.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-13T08:09:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Repository.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL\\Repository.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Repository.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:26:08.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\IRepository.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL\\IRepository.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:26:07.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL\\Context.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Context.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL\\Context.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Context.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:26:03.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAL_Celebrity.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity\\DAL_Celebrity.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\DAL_Celebrity.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity\\DAL_Celebrity.cs",
+              "RelativeToolTip": "DAL_Celebrity\\DAL_Celebrity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:23:40.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.http",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\ASPA006_1\\app.http",
+              "RelativeDocumentMoniker": "ASPA006_1\\app.http",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\ASPA006_1\\app.http",
+              "RelativeToolTip": "ASPA006_1\\app.http",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-13T07:20:23.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Init.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL\\Init.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Init.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0421\u043C\u0435\u043B\u043E\u0432\\\u0422\u041F\u0412\u0418\\TPVI-4sem\\6\\ASPA\\DAL_Celebrity_MSSQL\\Init.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Init.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwCIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:26:04.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
