@@ -1,0 +1,6 @@
+﻿{
+  "Celebrities": {
+    "PhotosFolder": "C:\\лабы\\Смелов\\ТПВИ\\TPVI-4sem\\7\\ASPA\\ASPA007_1\\wwwroot\\photo",
+    "ConnectionString": "Server=DESKTOP-P1GMMIV; Database=LESO1; Trusted_Connection=true; TrustServerCertificate=Yes"
+  }
+}

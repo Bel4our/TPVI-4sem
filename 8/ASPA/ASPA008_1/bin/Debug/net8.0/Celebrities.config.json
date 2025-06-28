@@ -1,0 +1,8 @@
+﻿{
+  "Celebrities": {
+    "PhotosFolderRequestPath": "/Photos",
+    "PhotosFolder": "C:\\лабы\\Смелов\\ТПВИ\\TPVI-4sem\\8\\ASPA\\ASPA008_1\\Photos",
+    "ConnectionString": "Server=DESKTOP-P1GMMIV; Database=LESO1; Trusted_Connection=true; TrustServerCertificate=Yes",
+    "ISO3166alpha2Path": "C:\\лабы\\Смелов\\ТПВИ\\TPVI-4sem\\8\\ASPA\\ASPA008_1\\CountryCodes\\iso3166-1-alpha2-country-codes.json"
+  }
+}

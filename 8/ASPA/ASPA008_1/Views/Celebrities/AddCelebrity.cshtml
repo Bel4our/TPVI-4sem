@@ -1,0 +1,26 @@
+﻿@model DAL_Celebrity_MSSQL.Celebrity
+
+@{
+    ViewData["Title"] = "Добавить знаменитость";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@using (Html.BeginForm("Create", "Celebrities", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @await Html.PartialAsync("_AddCelebrity", Model)
+
+    <div class="row">
+        <button class="btn btn-primary col-6" type="submit">Сохранить</button>
+        <button class="btn btn-outline-danger col-6" type="reset">Отмена</button>
+    </div>
+}
+
+@section Scripts {
+    <script>
+        function onChange(e) {
+            const fileName = e.files[0]?.name || "Загрузить фото";
+            document.getElementById('butupload').innerText = fileName;
+        }
+    </script>
+}

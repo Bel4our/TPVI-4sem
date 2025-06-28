@@ -1,0 +1,43 @@
+﻿@using Microsoft.AspNetCore.Mvc.Rendering
+@model ASPA008_1.Models.CelebrityViewModel
+@inject ANC25_WEBAPI_DLL.Services.CountryCodes CountriesService
+
+@{
+    var countriesSelectList = ViewData["Nationality"] as SelectList ??
+                           new SelectList(CountriesService, "Code", "Name");
+}
+
+<div class="row mb-3">
+    @Html.TextBox("FullName", Model?.FullName, new
+        {
+            @class = "form-control col-8",
+            placeholder = "Имя знаменитости",
+            required = "required"
+        })
+
+    @Html.DropDownList("Nationality", countriesSelectList, "Выберите страну", new
+        {
+            @class = "form-control col-4",
+            required = "required"
+        })
+</div>
+
+<div class="row mb-3">
+    <input id="uploadInput" name="Upload" type="file"
+           style="display:none;"
+           accept="image/*"
+           onchange="document.getElementById('butupload').innerText = this.files[0] ? this.files[0].name : 'Загрузить фото';"
+           required />
+
+    <button class="btn btn-outline-secondary col-12"
+            id="butupload"
+            type="button"
+            onclick="document.getElementById('uploadInput').click()">
+        Загрузить фото
+    </button>
+</div>
+
+<div class="btn-container">
+    <button type="submit" class="btn btn-primary btn-custom">Ok</button>
+    <a asp-action="NewHumanForm" class="btn btn-danger btn-custom">Cancel</a>
+</div>
